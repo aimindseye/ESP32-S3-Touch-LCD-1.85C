@@ -1,0 +1,10 @@
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/xtensa_lx-61869c51b2438398.d: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/interrupt.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/timer.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/macros.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/libxtensa_lx-61869c51b2438398.rlib: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/interrupt.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/timer.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/macros.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/libxtensa_lx-61869c51b2438398.rmeta: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/interrupt.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/timer.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/macros.rs
+
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/lib.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/interrupt.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/timer.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xtensa-lx-0.13.0/src/macros.rs:

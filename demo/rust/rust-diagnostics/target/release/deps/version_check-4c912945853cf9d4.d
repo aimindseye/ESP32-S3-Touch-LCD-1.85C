@@ -1,0 +1,10 @@
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/version_check-4c912945853cf9d4.d: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/libversion_check-4c912945853cf9d4.rlib: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/libversion_check-4c912945853cf9d4.rmeta: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs:

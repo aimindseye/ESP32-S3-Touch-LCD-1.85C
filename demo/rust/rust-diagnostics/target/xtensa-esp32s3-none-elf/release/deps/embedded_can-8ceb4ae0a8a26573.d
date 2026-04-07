@@ -1,0 +1,10 @@
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/embedded_can-8ceb4ae0a8a26573.d: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/blocking.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/nb.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/id.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/libembedded_can-8ceb4ae0a8a26573.rlib: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/blocking.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/nb.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/id.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/xtensa-esp32s3-none-elf/release/deps/libembedded_can-8ceb4ae0a8a26573.rmeta: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/blocking.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/nb.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/id.rs
+
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/lib.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/blocking.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/nb.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-can-0.4.1/src/id.rs:

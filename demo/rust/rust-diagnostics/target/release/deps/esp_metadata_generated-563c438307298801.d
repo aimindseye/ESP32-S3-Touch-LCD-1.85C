@@ -1,0 +1,9 @@
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/esp_metadata_generated-563c438307298801.d: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_generated_esp32s3.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_build_script_utils.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/libesp_metadata_generated-563c438307298801.rlib: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_generated_esp32s3.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_build_script_utils.rs
+
+/Users/piyushdaiya/Documents/projects/esp32s3-touch-lcd-1.85c-rust-diagnostics-v2/target/release/deps/libesp_metadata_generated-563c438307298801.rmeta: /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/lib.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_generated_esp32s3.rs /Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_build_script_utils.rs
+
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/lib.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_generated_esp32s3.rs:
+/Users/piyushdaiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-metadata-generated-0.3.0/src/_build_script_utils.rs:
