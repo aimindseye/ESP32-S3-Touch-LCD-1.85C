@@ -74,6 +74,7 @@ Desktop.ini
 *.webp
 *.mp4
 *.mov
+.DS_Store
 
 # Uncomment below if you do NOT want local screenshots/videos in repo
 # /captures/
